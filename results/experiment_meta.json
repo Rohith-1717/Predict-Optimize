@@ -1,0 +1,39 @@
+{
+    "is_synthetic": false,
+    "n_tickers": 20,
+    "tickers": [
+        "ASIANPAINT.NS",
+        "AXISBANK.NS",
+        "BAJFINANCE.NS",
+        "BHARTIARTL.NS",
+        "HCLTECH.NS",
+        "HDFCBANK.NS",
+        "HINDUNILVR.NS",
+        "ICICIBANK.NS",
+        "INFY.NS",
+        "ITC.NS",
+        "KOTAKBANK.NS",
+        "LT.NS",
+        "MARUTI.NS",
+        "NTPC.NS",
+        "RELIANCE.NS",
+        "SBIN.NS",
+        "SUNPHARMA.NS",
+        "TCS.NS",
+        "TITAN.NS",
+        "WIPRO.NS"
+    ],
+    "date_range": [
+        "2015-03-31",
+        "2024-12-30"
+    ],
+    "test_dates": [
+        "2022-01-03",
+        "2024-12-30"
+    ],
+    "risk_aversion": 2.5,
+    "uncertainty_penalty": 1.5,
+    "max_weight": 0.15,
+    "cost_bps": 15.0,
+    "n_test_days": 738
+}
